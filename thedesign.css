@@ -77,6 +77,8 @@ h2{
 	
 	border-bottom: 5px solid black;
 	margin: 0 auto;
+	position:absolute;
+
 }
 
 .arrow-down {
