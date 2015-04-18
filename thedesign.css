@@ -26,8 +26,9 @@ body, html{
 }
 
 .wrapper{
-	width: 850px;
-	margin: 0 auto;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 0;
 	
 }
