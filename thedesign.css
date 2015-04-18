@@ -66,10 +66,6 @@ h2{
 	
 }
 
-#nav ul li{
-	display:inline;
-}
-
 #nav ul{
 	list-style: none;
 	display: block;
@@ -80,6 +76,7 @@ h2{
 #nav li{
 	margin-top: 9px;
 	padding-left: 21px;
+	float: left;
 }
 
 #nav li a{
