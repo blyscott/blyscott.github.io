@@ -4,9 +4,14 @@ body{
 	font-family: arial;
 }
 
+div{
+	width: 50%
+	margin: 0 auto;
+}
+
 h1{
 	color: #f6546a;	
-	font-size: 1.00em;
+	font-size: 3.00em;
 	text-transform: lowercase;
 	letter-spacing:-1px;
 }
