@@ -40,8 +40,53 @@ h1{
 	letter-spacing:-7px;
 }
 
-#linkcontainer{
+h2{
+	color: #000;	
+	font-size: 2.70em;
+	text-transform: lowercase;
+	letter-spacing:-1px;
+}
+
+
+#nav{
 	margin-top: 5px;
 	width: 100%;
-	word-spacing: 50px;
 }
+
+#nav ul{
+	list-style: none;
+	display: block;
+	margin: 0 auto;
+	list-style: none;
+}
+
+#nav li{
+	margin-top: 9px;
+}
+
+#nav li a{
+	color: #000;
+}
+
+#aboutnext{
+	width: 100%;
+	background-color: #383838;
+	height: 600px;
+}
+
+#resumenext{
+	width: 100%;
+	background-color: #468499;
+	height:600px;
+}
+
+#contactnext{
+	width: 100%;
+	background-color: #ffc0cb;
+	height: 600px;
+}
+
+
+
+
+
