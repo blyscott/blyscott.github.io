@@ -30,13 +30,14 @@ body, html{
 	height: 100%;
 	margin: 0 auto;
 	padding: 0;
-	background-color: #f2f2e7;
+	
 }
 
 #header{
 	width: 100%;
 	min-height: 100vh;
 	margin: 0 0 260px 0;
+	background-color: #e2f0d6;
 }
 
 h1{
@@ -82,21 +83,21 @@ h2{
 
 #aboutnext{
 	width: 100%;
-	background-color: #383838;
+	background-color: #bdd684;
 	min-height: 100vh;
 	padding: 200px 0 260px 0;
 }
 
 #resumenext{
 	width: 100%;
-	background-color: #468499;
+	background-color: #95ab63;
 	min-height:100vh;
 	padding: 200px 0 260px 0;
 }
 
 #contactnext{
 	width: 100%;
-	background-color: #ffc0cb;
+	background-color: #f6ffe0;
 	min-height: 100vh;
 	padding: 200px 0 260px 0;
 }
