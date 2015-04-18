@@ -6,4 +6,7 @@ body{
 
 h1{
 	color: #f6546a;	
+	font-size: 1.00em;
+	text-transform: lowercase;
+	letter-spacing:-1px;
 }
