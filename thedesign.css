@@ -33,6 +33,12 @@ body, html{
 	background-color: #f2f2e7;
 }
 
+#header{
+	width: 100%;
+	margin: 0 auto;
+	position: fixed;
+}
+
 h1{
 	color: #f6546a;	
 	font-size: 5.70em;
