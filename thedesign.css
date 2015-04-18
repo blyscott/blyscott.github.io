@@ -86,7 +86,8 @@ h2{
 
 #nav li a{
 	color: #95ab63;
-	font-size: 0.02em;
+	font-size: 0.05em;
+	letter-spacing: 2px;
 	text-decoration: none;
 }
 
