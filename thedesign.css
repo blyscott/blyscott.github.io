@@ -18,7 +18,7 @@ time, mark, audio, video {
 }
 
 body, html{
-	margin: 20px;
+	margin: 5px;
 	height: 100%;
 	color: #000;
 	font-family: arial;
@@ -37,5 +37,5 @@ h1{
 	color: #f6546a;	
 	font-size: 5.70em;
 	text-transform: lowercase;
-	letter-spacing:-5px;
+	letter-spacing:-7px;
 }
