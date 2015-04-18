@@ -82,18 +82,21 @@ h2{
 	width: 100%;
 	background-color: #383838;
 	height: 600px;
+	padding: 200px 0 260px 0;
 }
 
 #resumenext{
 	width: 100%;
 	background-color: #468499;
 	height:600px;
+	padding: 200px 0 260px 0;
 }
 
 #contactnext{
 	width: 100%;
 	background-color: #ffc0cb;
 	height: 600px;
+	padding: 200px 0 260px 0;
 }
 
 
