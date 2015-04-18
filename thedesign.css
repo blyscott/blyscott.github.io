@@ -45,6 +45,7 @@ body, html{
 #headertext{
 	float: left;
 	margin-right: 30px;
+	display: inline-block;
 }
 
 h1{
