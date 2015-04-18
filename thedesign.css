@@ -4,7 +4,7 @@ body{
 	font-family: arial;
 }
 
-div{
+#maincontainer{
 	width: 50%;
 	margin: 0 auto;
 }
