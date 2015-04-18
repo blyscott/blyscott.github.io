@@ -26,7 +26,7 @@ body, html{
 }
 
 .wrapper{
-	width: 550px;
+	width: 450px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -67,6 +67,7 @@ h2{
 	width: 210px;
 	margin-top: 10px;
 	display: inline-block;
+	float:right;
 	
 }
 
