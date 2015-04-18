@@ -33,6 +33,7 @@ body, html{
 	padding: 0;
 	background-color: #fff;
 	overflow:auto;
+	border-bottom: 1px;
 	
 }
 
