@@ -40,6 +40,10 @@ body, html{
 	background-color: #e2f0d6;
 }
 
+#headertext{
+	float: left;
+}
+
 h1{
 	color: #102242;	
 	font-size: 5.70em;
