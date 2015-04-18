@@ -8,11 +8,12 @@ body{
 #maincontainer{
 	width: 50%;
 	margin: 0 auto;
+	background-color: #f2f2e7;
 }
 
 h1{
 	color: #f6546a;	
 	font-size: 3.00em;
 	text-transform: lowercase;
-	letter-spacing:-10px;
+	letter-spacing:-5px;
 }
