@@ -10,9 +10,9 @@ body, html{
 }
 
 #maincontainer{
-	width: 95%;
+	width: 99%;
 	height: 100%;
-	margin: 0 auto;
+	margin: 0;
 	background-color: #f2f2e7;
 }
 
