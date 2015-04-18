@@ -34,10 +34,9 @@ body, html{
 
 #header{
 	width: 100%;
-	min-height: 100vh;
+	height: 100px;
 	margin-top: 10px;
 	background-color: #e2f0d6;
-	border-bottom: 10px;
 }
 
 #headertext{
