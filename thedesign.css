@@ -38,10 +38,11 @@ body, html{
 	margin-top: 10px;
 	background-color: #e2f0d6;
 	border-bottom: 10px;
+	display: inline;
 }
 
 #headertext{
-	float: left;
+	text-align: left;
 	margin-right: 20px;
 }
 
@@ -62,7 +63,6 @@ h2{
 
 #nav{
 	width: 410px;
-	float: right;
 	margin-top: 10px;
 	
 }
