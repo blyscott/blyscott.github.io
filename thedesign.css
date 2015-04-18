@@ -41,6 +41,7 @@ h1{
 }
 
 #linkcontainer{
+	margin-top: 5px;
 	width: 100%;
-	word-spacing: 20px;
+	word-spacing: 40px;
 }
