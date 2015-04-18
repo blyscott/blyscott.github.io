@@ -19,6 +19,7 @@ time, mark, audio, video {
 
 body{
 	margin: 30px;
+	height: 100%;
 	color: #000;
 	font-family: arial;
 	text-align: center;
