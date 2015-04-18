@@ -32,7 +32,7 @@ body, html{
 	margin-right: auto;
 	padding: 0;
 	overflow:auto;
-	border-bottom: 1px dotted #bdd684;
+	border-bottom: 1px dotted #95ab63;
 	
 }
 
@@ -85,7 +85,8 @@ h2{
 }
 
 #nav li a{
-	color: #000;
+	color: #95ab63;
+	font-size: 0.02em;
 	text-decoration: none;
 }
 
