@@ -38,6 +38,7 @@ body, html{
 	min-height: 100vh;
 	margin: 0;
 	background-color: #e2f0d6;
+	float: left;
 }
 
 h1{
@@ -48,8 +49,8 @@ h1{
 }
 
 h2{
-	color: #000;	
-	font-size: 2.70em;
+	color: #fff;	
+	font-size: 1.70em;
 	text-transform: lowercase;
 	letter-spacing:-1px;
 }
@@ -58,6 +59,7 @@ h2{
 #nav{
 	margin-top: 5px;
 	width: 100%;
+	float: right;
 }
 
 #nav ul li{
