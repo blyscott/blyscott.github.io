@@ -37,7 +37,7 @@ body, html{
 	min-height: 100vh;
 	margin-top: 10px;
 	background-color: #e2f0d6;
-	border-bottom: 0.02em dotted #bdd684;
+	border-bottom: 1em dotted #bdd684;
 }
 
 #headertext{
@@ -75,6 +75,7 @@ h2{
 
 #nav li{
 	float: left;
+	padding-left: 10px;
 }
 
 #nav li a{
