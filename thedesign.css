@@ -27,6 +27,7 @@ body, html{
 
 .wrapper{
 	width: 750px;
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 0;
@@ -42,7 +43,6 @@ body, html{
 
 #headertext{
 	float: left;
-	margin-right: 20px;
 }
 
 h1{
