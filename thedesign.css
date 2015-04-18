@@ -38,7 +38,6 @@ body, html{
 	min-height: 100vh;
 	margin: 0;
 	background-color: #e2f0d6;
-	float: left;
 }
 
 h1{
@@ -59,7 +58,6 @@ h2{
 #nav{
 	margin-top: 5px;
 	width: 100%;
-	float: right;
 }
 
 #nav ul li{
