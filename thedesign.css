@@ -41,7 +41,7 @@ body, html{
 }
 
 #headertext{
-	float: left;
+	text-align:left;
 }
 
 h1{
