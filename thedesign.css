@@ -74,8 +74,8 @@ h2{
 
 #nav ul{
 	list-style: none;
-	display: inline-block;
-	margin: 0 auto;
+	display: block;
+	margin: 0;
 	list-style: none;
 }
 
