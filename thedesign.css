@@ -53,6 +53,7 @@ body, html{
 	margin:0 auto;
 	display: block;
 	width: 90%;
+	top: 300px;
 }
 
 h1{
@@ -89,24 +90,10 @@ h2{
 	border-right: 20px solid transparent;
 	
 	border-top: 20px solid #f00;
-}
-
-.arrow-right {
-	width: 0; 
-	height: 0; 
-	border-top: 60px solid transparent;
-	border-bottom: 60px solid transparent;
-	
-	border-left: 60px solid green;
-}
-
-.arrow-left {
-	width: 0; 
-	height: 0; 
-	border-top: 10px solid transparent;
-	border-bottom: 10px solid transparent; 
-	
-	border-right:10px solid blue; 
+	border-bottom: 5px solid black;
+	left: 0; right:0;
+	margin: auto;
+	position:absolute;
 }
 
 
