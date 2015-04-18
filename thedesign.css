@@ -87,10 +87,10 @@ h2{
 
 #nav li a{
 	color: #95ab63;
-	font-size: 0.10em;
+	font-size: 0.20em;
 	letter-spacing: 3px;
 	text-decoration: none;
-	text-shadow: 1px 1px #000;
+	text-shadow: .5px .5px #696969;
 }
 
 #aboutnext{
