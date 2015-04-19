@@ -96,6 +96,19 @@ h2{
 	position:absolute;
 }
 
+.arrow-up-two {
+	width: 0; 
+	height: 0; 
+	border-left: 110px solid transparent;
+	border-right: 110px solid transparent;
+	
+	border-bottom: 200px solid black;
+	left: 49%; 
+	top:  20%;
+	position: absolute;
+
+}
+
 
 #nav{
 	width: 210px;
