@@ -77,7 +77,7 @@ h2{
 	border-left: 110px solid transparent;
 	border-right: 110px solid transparent;
 	
-	border-bottom: 200px solid black;
+	border-bottom: 200px solid #AB5651;
 	left: 23%; 
 	top:  30%;
 	position: absolute;
@@ -90,7 +90,7 @@ h2{
 	border-left: 110px solid transparent;
 	border-right: 110px solid transparent;
 	
-	border-top: 200px solid black;
+	border-top: 200px solid #48AB92;
 	left: 39%;
 	top: 30%;
 	position:absolute;
@@ -102,7 +102,7 @@ h2{
 	border-left: 110px solid transparent;
 	border-right: 110px solid transparent;
 	
-	border-bottom: 200px solid black;
+	border-bottom: 200px solid #FFA15E;
 	left: 55%; 
 	top:  30%;
 	position: absolute;
