@@ -78,9 +78,9 @@ h2{
 	border-right: 100px solid transparent;
 	
 	border-bottom: 200px solid black;
-	left: 10px; right:0;
+	left: 10%; right:0;
 	top:  190px;
-	position:absolute;
+	position: absolute;
 
 }
 
