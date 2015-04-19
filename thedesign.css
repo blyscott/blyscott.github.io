@@ -54,6 +54,7 @@ body, html{
 	display: block;
 	width: 90%;
 	top: 300px;
+	overflow: auto;
 }
 
 h1{
