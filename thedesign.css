@@ -77,7 +77,7 @@ h2{
 	border-left: 100px solid transparent;
 	border-right: 100px solid transparent;
 	
-	border-bottom: 100px solid black;
+	border-bottom: 200px solid black;
 	left: 0; right:0;
 	top:  300px;
 	margin: auto;
@@ -91,7 +91,7 @@ h2{
 	border-left: 100px solid transparent;
 	border-right: 100px solid transparent;
 	
-	border-top: 100px solid black;
+	border-top: 200px solid black;
 	left: 0; right:0;
 	top: 200px;
 	margin: auto;
