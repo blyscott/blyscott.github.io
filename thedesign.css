@@ -74,10 +74,10 @@ h2{
 .arrow-up {
 	width: 0; 
 	height: 0; 
-	border-left: 5px solid transparent;
-	border-right: 5px solid transparent;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
 	
-	border-bottom: 5px solid black;
+	border-bottom: 10px solid black;
 	left: 0; right:0;
 	top:  300px;
 	margin: auto;
@@ -88,11 +88,10 @@ h2{
 .arrow-down {
 	width: 0; 
 	height: 0; 
-	border-left: 20px solid transparent;
-	border-right: 20px solid transparent;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
 	
-	border-top: 20px solid #f00;
-	border-bottom: 5px solid black;
+	border-top: 10px solid black;
 	left: 0; right:0;
 	top: 200px;
 	margin: auto;
