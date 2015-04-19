@@ -94,6 +94,7 @@ h2{
 	border-top: 20px solid #f00;
 	border-bottom: 5px solid black;
 	left: 0; right:0;
+	top: 200px;
 	margin: auto;
 	position:absolute;
 }
