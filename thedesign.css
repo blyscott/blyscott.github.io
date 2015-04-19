@@ -78,7 +78,7 @@ h2{
 	border-right: 110px solid transparent;
 	
 	border-bottom: 200px solid black;
-	left: 15%; 
+	left: 35%; 
 	top:  20%;
 	position: absolute;
 
@@ -91,7 +91,7 @@ h2{
 	border-right: 100px solid transparent;
 	
 	border-top: 200px solid black;
-	left: 35%;
+	left: 50%;
 	top: 20%;
 	position:absolute;
 }
