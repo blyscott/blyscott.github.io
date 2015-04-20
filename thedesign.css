@@ -22,7 +22,6 @@ body, html{
 	height: 100%;
 	color: #000;
 	font-family: arial;
-	text-align: center;
 }
 
 .headwrapper{
@@ -41,7 +40,7 @@ body, html{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	
+	position: absolute;
 	padding: 3px;
 	overflow:auto;
 }
