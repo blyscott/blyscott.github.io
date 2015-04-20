@@ -33,6 +33,7 @@ body, html{
 	margin-right: auto;
 	padding: 3px;
 	overflow:auto;
+	position: fixed;
 	border-bottom: 1px dotted #95ab63;
 	
 }
