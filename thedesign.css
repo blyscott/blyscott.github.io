@@ -30,7 +30,7 @@ body, html{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 0;
+	padding: 5px;
 	overflow:auto;
 	border-bottom: 1px dotted #95ab63;
 	
