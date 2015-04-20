@@ -42,7 +42,7 @@ body, html{
 	width: 100%;
 	min-height: 100vh;
 	margin-top: 10px;
-	background-color: #e2f0d6;
+	background-color: #f6ffe0;
 }
 
 #headertext{
@@ -152,7 +152,7 @@ h2{
 
 #resumenext{
 	width: 100%;
-	background-color: #95ab63;
+	background-color: #bdd684;
 	min-height:100vh;
 	padding: 200px 0 260px 0;
 }
