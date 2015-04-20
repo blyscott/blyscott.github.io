@@ -22,6 +22,7 @@ body, html{
 	height: 100%;
 	color: #3F3E37;
 	font-family: arial;
+	text-align: center;
 }
 
 .headwrapper{
@@ -42,6 +43,9 @@ body, html{
 	margin-right: auto;
 	padding-top: 150px;
 	overflow:auto;
+	color: #3F3E37;
+	font-family: Geneva;
+	font-size: 1.00em;
 }
 
 #header{
