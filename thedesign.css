@@ -51,7 +51,6 @@ body, html{
 	width: 50px;
 	height: 5px;
 	background: red;
-	display: inline-block;
 }
 
 #header{
