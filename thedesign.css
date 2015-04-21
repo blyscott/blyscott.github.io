@@ -19,6 +19,7 @@ time, mark, audio, video {
 
 body, html{
 	margin: 5px;
+	padding: 5px;
 	height: 100%;
 	color: #3F3E37;
 	font-family: arial;
@@ -39,7 +40,7 @@ body, html{
 	width: 550px;
 	display: block;
 	position: absolute;
-	top: 200px;
+	top: 100px;
 	overflow:auto;
 	color: #3F3E37;
 	font-size: 0.9em;
@@ -78,6 +79,7 @@ h2{
 	font-size: 0.70em;
 	letter-spacing: 4px;
 	line-height: 10px;
+	font-weight: normal;
 }
 
 .arrow-up {
