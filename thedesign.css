@@ -22,7 +22,6 @@ body, html{
 	height: 100%;
 	color: #3F3E37;
 	font-family: arial;
-	text-align: center;
 }
 
 .headwrapper{
@@ -76,10 +75,9 @@ h1{
 }
 
 h2{
-	color: #fff;	
-	font-size: 1.70em;
-	text-transform: lowercase;
-	letter-spacing:-1px;
+	color: #6D7D49;
+	font-size: 0.70em;
+	letter-spacing: 4px;
 }
 
 .arrow-up {
