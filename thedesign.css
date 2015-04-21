@@ -40,11 +40,17 @@ body, html{
 	width: 550px;
 	display: block;
 	position: absolute;
-	padding: 3px;
+	padding: 15px;
 	top: 100px;
 	overflow:auto;
 	color: #3F3E37;
 	font-size: 0.9em;
+}
+
+.rectangle {
+	width: 200px;
+	height: 100px;
+	background: red;
 }
 
 #header{
