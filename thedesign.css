@@ -40,6 +40,7 @@ body, html{
 	width: 550px;
 	display: block;
 	position: absolute;
+	padding: 3px;
 	top: 100px;
 	overflow:auto;
 	color: #3F3E37;
