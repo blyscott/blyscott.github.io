@@ -48,8 +48,8 @@ body, html{
 }
 
 .rectangle {
-	width: 200px;
-	height: 100px;
+	width: 20px;
+	height: 5px;
 	background: red;
 }
 
